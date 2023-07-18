@@ -1,0 +1,23 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .search-container {
+    margin-top: 20px;
+  }
+  
+  #search-input {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  #search-btn {
+    padding: 5px 10px;
+  }
+  
+  #weather-info {
+    margin-top: 20px;
+    font-size: 20px;
+  }
